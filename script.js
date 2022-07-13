@@ -23,32 +23,7 @@ class UI {
         </div>
         <div class="product__footer">
           <h1>${title}</h1>
-          <div class="rating">
-            <span>
-              <svg>
-                <use xlink:href="./images/sprite.svg#icon-star-full"></use>
-              </svg>
-            </span>
-            <span>
-              <svg>
-                <use xlink:href="./images/sprite.svg#icon-star-full"></use>
-              </svg>
-            </span>
-            <span>
-              <svg>
-                <use xlink:href="./images/sprite.svg#icon-star-full"></use>
-              </svg>
-            </span>
-            <span>
-              <svg>
-                <use xlink:href="./images/sprite.svg#icon-star-full"></use>
-              </svg>
-            </span>
-            <span>
-              <svg>
-                <use xlink:href="./images/sprite.svg#icon-star-empty"></use>
-              </svg>
-            </span>
+          
           </div>
           <div class="bottom">
             <div class="btn__group">
@@ -278,3 +253,5 @@ document.addEventListener("DOMContentLoaded", async () => {
   ui.getButtons();
   ui.cartLogic();
 });
+
+
