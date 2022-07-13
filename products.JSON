@@ -1,0 +1,55 @@
+{
+    "status": "success",
+    "items": [{
+            "id": 1,
+            "title": "Ring1",
+            "price": 135,
+            "image": "./img/BO.png"
+        },
+        {
+            "id": 2,
+            "title": "Ring2",
+            "price": 950,
+            "image": "./img/Claw.png"
+        },
+        {
+            "id": 3,
+            "title": "Ring3",
+            "price": 750,
+            "image": "/img/Cosmo.png"
+        },
+        {
+            "id": 4,
+            "title": "Ring4",
+            "price": 999,
+            "image": "/img/Cross2.png"
+        },
+        {
+            "id": 5,
+            "title": "Ring5",
+            "price": 250,
+            "image": "/img/SOH.png"
+
+        },
+        {
+            "id": 6,
+            "title": "Ring6",
+            "price": 850,
+            "image": "/img/tear.png"
+
+        },
+        {
+            "id": 7,
+            "title": "Ring7",
+            "price": 600,
+            "image": "/img/V.png"
+        },
+        {
+            "id": 8,
+            "title": "Ring8",
+            "price": 350,
+            "image": "/img/VU2.png"
+        }
+      
+    ]
+}
